@@ -7,7 +7,7 @@ public class Main {
             bonus = 0;
         }
         int sum = balance + money + bonus;
-        System.out.println("Ваш бонус" + " " + bonus);
-        System.out.println("Сумма на счету" + " " + sum);
+        System.out.println("Ваш бонус " + bonus);
+        System.out.println("Сумма на счету " + sum);
     }
 }
