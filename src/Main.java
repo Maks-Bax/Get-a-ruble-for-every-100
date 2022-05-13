@@ -8,7 +8,7 @@ public class Main {
         }
         else bonus = money / 100;
         int sum = balance + money + bonus;
-        System.out.println("Ваш бонус" + " " + bonus);
-        System.out.println("Сумма на счету" + " " + sum);
+        System.out.println("Ваш бонус " + bonus);
+        System.out.println("Сумма на счету " + sum);
     }
 }
